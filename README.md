@@ -18,7 +18,7 @@ Role-Based Access Control:
 
 User Roles: Differentiate between various user roles such as Admin, Manager, and Employee.
 Permissions: Control access to various features and operations based on user roles.
-Search and Filter:
+
 
 Technical Stack:
 
